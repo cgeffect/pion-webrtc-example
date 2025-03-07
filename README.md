@@ -13,3 +13,6 @@ https://www.nxrte.com/jishu/webrtc/7900.html
 
 https://github.com/sipsorcery/webrtc-interop/tree/master/pion
 https://tonybai.com/2023/09/23/p2p-rtc-implementation-with-go-and-webrtc-data-channel/
+
+
+https://medium.com/@ramezemadaiesec/from-zero-to-fully-functional-video-conference-app-using-go-and-webrtc-7d073c9287da
