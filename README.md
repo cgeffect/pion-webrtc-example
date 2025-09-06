@@ -25,6 +25,6 @@ iOS/macOS webrtc.framework
 https://github.com/stasel/WebRTC/releases
 
 
-wenrtc编译好的MAC静态库c++接口
+webrtc编译好的MAC静态库c++接口
 https://github.com/webrtc-sdk/webrtc-build
 https://github.com/webrtc-sdk/webrtc-build/releases/download/m104.5112.09/webrtc.macos_arm64.tar.gz
